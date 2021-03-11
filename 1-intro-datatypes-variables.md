@@ -59,7 +59,7 @@ Q3.) What tag contains the JavaScript code?
 
 > Tip: you no longer need to indicate language or type. 
 ```javascript
-Don't do this!!    
+Not necessary!!    
 <script language="javascript" type="text/javascript"></script>
 ```
 ***
